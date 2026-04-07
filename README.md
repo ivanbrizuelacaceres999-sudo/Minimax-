@@ -12,12 +12,12 @@ Este proyecto implementa un sistema de toma de decisiones automatizado utilizand
 * **Horizonte de Predicción:** Límite de pasos hacia el futuro que la IA analiza (Profundidad).
 
 
-### 📐 3. Matemáticas y Geometría
+### 📐 2 Matemáticas y Geometría
 * **Distancia Manhattan:** Cálculo de distancia en rejillas rectangulares mediante la suma de diferencias absolutas: `abs(x1-x2) + abs(y1-y2)`.
 * **Lógica de Desempate:** Criterio secundario para elegir movimientos cuando el futuro parece tener el mismo valor.
 * **Maximización vs Minimización:** El Ratón busca el valor máximo (alejarse) y el Gato el mínimo (acercarse).
 
-### 🐍 4. Programación Avanzada en Python
+### 🐍 3 Programación Avanzada en Python
 * **Matrices (Nested Lists):** Representación bidimensional del mundo virtual.
 * **List Comprehension:** Filtrado eficiente de movimientos válidos en una sola línea de código.
 * **Desempaquetado de Tuplas:** Manejo limpio de coordenadas `(x, y)`.
